@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-app_10_redux-async/static/css/main.40d0805b.css",
+    "main.js": "/my-app_10_redux-async/static/js/main.dcbebe28.js",
+    "index.html": "/my-app_10_redux-async/index.html",
+    "main.40d0805b.css.map": "/my-app_10_redux-async/static/css/main.40d0805b.css.map",
+    "main.dcbebe28.js.map": "/my-app_10_redux-async/static/js/main.dcbebe28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d0805b.css",
+    "static/js/main.dcbebe28.js"
+  ]
+}
